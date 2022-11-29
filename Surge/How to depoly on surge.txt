@@ -1,0 +1,11 @@
+1.Install node Js 
+2.Install surge
+If you haven't used Surge before, from anywhere in Terminal, run:
+    npm install --global surge  / npm i -g surge
+3.surge
+4.Enter Email and Password
+5.Open the Project folder and open with cmd or power Shell
+6.Write surge
+7.Check path Press Enter
+8.Change name if you want but don't  remove .surge.sh
+9.Your Website is hosted. Hurray
