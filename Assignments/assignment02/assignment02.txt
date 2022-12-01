@@ -13,6 +13,6 @@ Requirements:
 
 (How to deploy on Surge - https://www.youtube.com/watch?v=rCfs9mRbp5E)
 
-Deadline: 04/10/2022
 
+Deadline: 06/12/2022
 Submit: https://forms.gle/xU1LfAkF7vjtVhxe9
