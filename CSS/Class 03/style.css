@@ -1,0 +1,116 @@
+/* Attribute Selector */
+/* 
+input[type] {
+    border: 2px solid red; 
+/* } */
+
+/* Select with attribute Value  */
+/* 
+input[type="mail"] {
+    border: 2px solid royalblue;
+}
+
+[title^="This"] {
+    color: brown;
+}
+
+[title$="Parah"] {
+    color: cyan;
+}
+
+[title~="used"] {
+    color: darkorange;
+}
+
+[title~="is"] {
+    color: deeppink;
+} */
+
+
+/* Multiple Selector */
+
+/* 
+p,
+h1,
+input {
+    color: bisque;
+}
+
+#grandFather p {
+    color: darkcyan;
+}
+
+#father>p {
+    color: darkgoldenrod;
+} */
+/* 
+h1+p {
+    background-color: black;
+    color: aqua;
+}
+
+h2+p {
+    background-color: brown;
+    color: aliceblue;
+} */
+
+/* p~h2 {
+    color: aqua;
+    background-color: chartreuse;
+
+}
+
+p~h1 {
+    color: cadetblue;
+    background-color: #000;
+} */
+
+
+/* 
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    cursor: cell;
+    color: black;
+}
+
+a:active {
+    color: darkgoldenrod;
+}
+
+a:visited {
+    color: fuchsia;
+} */
+
+input[type="checkbox"]:checked {
+    outline: 2px solid red;
+}
+
+
+
+
+input[type="text"]:disabled {
+    background-color: gray;
+}
+
+#parah::first-letter {
+    font-size: 40px;
+    color: aqua;
+}
+
+
+#parah::first-line {
+
+    font-size: 20px;
+    color: blue;
+    background-color: bisque;
+}
+
+#parah::selection {
+
+    font-size: 20px;
+    background-color: black;
+    color: aliceblue;
+}
