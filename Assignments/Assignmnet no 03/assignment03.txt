@@ -1,0 +1,18 @@
+Assignment#03
+
+Dear Students / Brothers.
+Web & Mobile Application Development Batch 06 Section-A
+
+Requirements:
+
+1- Please create the exactly same HTML structure like attach in same folder.
+2- Use the assets from https://drive.google.com/drive/folders/1-mx3roAgjl56MyqHTutde5ropkbZS6eX?usp=sharing
+3- Please deploy into surge, and create online link
+4- Submit the assignment at link below
+
+
+(How to deploy on Surge - https://www.youtube.com/watch?v=rCfs9mRbp5E)
+
+Deadline: 20/12/2022
+
+Submit: https://forms.gle/TRuLAyR4Rtdb8T1j6
