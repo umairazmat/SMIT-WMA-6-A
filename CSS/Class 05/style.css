@@ -1,0 +1,117 @@
+ @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap');
+ /* @font-face {
+    font-family: myFont;
+    src: url(DancingScript-VariableFont_wght.ttf);
+} */
+
+ /* Numerical Units */
+ /* div {
+    height: 20px;
+}
+
+#absolute {
+    width: 200px;
+    background-color: blue;
+}
+
+#relative {
+    width: 50%;
+    background-color: red;
+}
+
+p {
+    font-size: 2vw;
+} */
+
+
+ /* Text Formatting */
+
+ /* h1 {
+    text-align: center;
+    text-align: right;
+    text-align: left;
+    word-spacing: 40px;
+    text-shadow: 5px 5px 2px gray;
+
+
+}
+
+p {
+    text-indent: 60px;
+    word-spacing: 30px;
+    letter-spacing: 5px;
+    text-decoration-line: underline;
+    -moz-text-decoration-line: ;
+    text-decoration-color: blue;
+    -moz-text-decoration-color: blue;
+    text-decoration-style: dotted;
+    -moz-text-decoration-style: dotted;
+} */
+
+
+ /* Fonts  */
+ /* 
+ h1 {
+     font-family: 'Courie New', Courir, monospace;
+ } */
+
+ /* p {
+     font-family: 'Dancing Script', cursive;
+     color: blue;
+     color: #000000;
+     color: rgb(29, 117, 222);
+     color: rgba(29, 117, 222, 100%);
+
+ } */
+
+ /* Background Images */
+
+ /* #img {
+     height: 500px;
+     width: 70%;
+     border: 5px solid #000000;
+     background-image: url(Heading.png);
+     background-repeat: no-repeat;
+     background-color: chartreuse;
+     background-size: contain;
+     background-size: cover;
+ } */
+
+ /* body {
+     background-image: url(Heading.png); 
+      background-repeat: no-repeat;
+      background-repeat: repeat-x; 
+      background-repeat: repeat-y;
+
+ } */
+
+
+ /* Gradients */
+
+ /* #gradient {
+     height: 300px;
+     width: 300px;
+     border-radius: 50%;
+     background-image: linear-gradient(to bottom, red, yellow);
+     background-image: radial-gradient(closest-side at 60% 55%, red, yellow, black);
+     -webkit-border-radius: 50%;
+     -moz-border-radius: 50%;
+     -ms-border-radius: 50%;
+     -o-border-radius: 50%;
+     background-image: conic-gradient(from 90deg, red, yellow, green);
+
+ } */
+
+
+ /* CSS Positions */
+
+
+ #static {
+     height: 200px;
+     width: 200px;
+     background-color: red;
+ }
+
+ #Height {
+     height: 800px;
+ }
