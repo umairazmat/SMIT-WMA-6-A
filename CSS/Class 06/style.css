@@ -1,0 +1,126 @@
+/* #static {
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    background-color: aqua;
+    position: static;
+}
+
+#relative {
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    background-color: brown;
+    position: relative;
+    top: 90px;
+    left: 150px;
+}
+
+#absolute {
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    background-color: chartreuse;
+    position: absolute;
+    top: 0px;
+}
+
+#fixed {
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    background-color: darkgoldenrod;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+}
+
+#sticky {
+    border: 2px solid black;
+    background-color: cornflowerblue;
+    position: sticky;
+    top: 0px;
+} */
+/* 
+#parent {
+    height: 500px;
+    width: 100%;
+    background-color: aqua;
+    border: solid 1px black;
+}
+
+#child1 {
+    width: 50%;
+    height: 250px;
+    background-color: chartreuse;
+    border: 1px solid black;
+    float: right;
+    display: inline-block;
+}
+
+#child2 {
+    width: 49%;
+    height: 250px;
+    background-color: deeppink;
+    border: 1px solid black;
+    float: left;
+    display: inline-block;
+} */
+
+#container {
+    border: 5px solid red;
+    height: 400px;
+    width: 80%;
+    margin: 40px auto;
+    display: flex;
+    /* flex-direction: column; */
+    /* flex-direction: column-reverse; */
+    /* flex-direction: row-reverse; */
+    /* flex-wrap: wrap; */
+    /* flex-wrap: wrap-reverse; */
+    /* justify-content: center; */
+    /* justify-content: space-between; */
+    /* justify-content: space-around; */
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+
+.items {
+    height: 100px;
+    width: 100px;
+    border: 5px solid black;
+
+}
+
+#item1 {
+    background-color: darkseagreen;
+    flex-shrink: 5;
+    /* order: 200; */
+    /* flex-grow: 1; */
+    /* flex-grow: 1; */
+}
+
+#item2 {
+    background-color: darkgoldenrod;
+    /* flex-grow: 2; */
+    /* flex-grow: 1; */
+}
+
+#item3 {
+    background-color: hotpink;
+    /* order: 100; */
+    /* flex-grow: 1; */
+
+}
+
+#item4 {
+    background-color: springgreen;
+    /* order: 150; */
+    /* flex-grow: 1; */
+}
+
+#item5 {
+    background-color: darkviolet;
+    /* flex-grow: 1; */
+
+}
