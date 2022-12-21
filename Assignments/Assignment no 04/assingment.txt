@@ -1,0 +1,21 @@
+Assignment#04
+
+Dear Students / Brothers.
+Web & Mobile Application Development Batch 06 Section-A
+
+
+Requirements:
+
+1-Please create the exactly same blog from figma file
+2-Use the assets from https://drive.google.com/drive/folders/1tfJ9IfDQpUVGy0pgGc5iGloD9MyCCuNK?usp=sharing
+3-Please deploy into surge, and create online link
+4-Submit the assignment at link below
+
+
+(How to deploy on Surge - https://www.youtube.com/watch?v=rCfs9mRbp5E)
+
+Deadline: 26/12/2022
+
+Submit:  https://forms.gle/aeiU3HjfZ5TV76gJ8
+
+Best Of Luck 🤞 
