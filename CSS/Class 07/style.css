@@ -1,0 +1,92 @@
+/* #transform {
+    width: 150px;
+    height: 80px;
+    margin: 50px auto;
+    background-color: black;
+    color: aqua;
+    transform: rotate(50deg);
+    -webkit-transform: rotate(50deg);
+    -moz-transform: rotate(50deg);
+    -ms-transform: rotate(50deg);
+    -o-transform: rotate(50deg);
+} */
+
+/* #transition {
+    width: 150px;
+    height: 80px;
+    margin: 50px auto;
+    background-color: red;
+    color: aqua;
+    transition-property: width;
+    transition-delay: 1s;
+    transition-duration: .5s;
+    transition-timing-function: cubic-bezier(.27, .73, .77, .13);
+}
+
+#transition:hover {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    height: 300px;
+    
+} */
+
+/* @media (min-width: 768px) {
+    body {
+        background-color: aqua;
+    }
+}
+
+@media (max-width: 768px) {
+    body {
+        background-color: black;
+    }
+} */
+
+.box {
+    font-size: 22px;
+    background-color: black;
+    color: aqua;
+    text-align: center;
+    display: none;
+}
+
+@media (max-width: 420px) {
+    #box1 {
+        display: block;
+        background-color: brown;
+        color: white;
+    }
+}
+
+@media (min-width:420px) and (max-width: 600px) {
+    #box2 {
+        display: block;
+        background-color: aquamarine;
+        color: black;
+    }
+}
+
+@media (min-width:600px) and (max-width: 990px) {
+    #box3 {
+        display: block;
+        background-color: darkorange;
+        color: black;
+    }
+}
+
+@media (min-width:990px) and (max-width: 1280px) {
+    #box4 {
+        display: block;
+        background-color: fuchsia;
+        color: black;
+    }
+}
+
+@media (min-width:1280px) {
+    #box5 {
+        display: block;
+        background-color: beige;
+        color: black;
+    }
+}
