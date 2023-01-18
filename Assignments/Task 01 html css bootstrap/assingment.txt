@@ -1,0 +1,21 @@
+Task 01 HTML CSS BOOTSTRAP
+
+Dear Students / Brothers.
+Web & Mobile Application Development Batch 06 Section-A
+
+
+Requirements:
+
+1-Please create the exactly same blog from figma file
+2-Use the assets from https://drive.google.com/drive/folders/1BRghEcmY6oTszALv3IQRRvKVE82xzuqU?usp=sharing
+3-Please deploy into surge, and create online link
+4-Submit the assignment at link below
+
+
+(How to deploy on Surge - https://www.youtube.com/watch?v=rCfs9mRbp5E)
+
+Deadline: 22/01/2023
+
+Submit:  https://forms.gle/wUuDybJa9fYnUpDbA
+
+Best Of Luck 🤞 

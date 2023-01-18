@@ -1,0 +1,21 @@
+Assignment no 05
+
+Dear Students / Brothers.
+Web & Mobile Application Development Batch 06 Section-A
+
+
+Requirements:
+
+1-Please create the exactly same blog from PSD file
+2-Use https://www.photopea.com/ if you don't have photoshop installed
+3-Use the assets from PSD file google drivelink:  https://drive.google.com/drive/folders/1A5cV-9oerIkM3p4G2KKdTYopePxfsovN?usp=sharing
+4-Please deploy into surge, and create online link
+5-Submit the assignment at link below
+
+
+(How to deploy on Surge - https://www.youtube.com/watch?v=rCfs9mRbp5E)
+
+Deadline: 22/01/2023
+
+Submit: https://forms.gle/xXmFbJQMC3gTkcCr5
+Best Of Luck 🤞 
