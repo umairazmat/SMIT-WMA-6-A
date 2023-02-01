@@ -1,0 +1,32 @@
+Assignment#07
+
+Dear Students / Brothers.
+Web & Mobile Application Development Batch 06 Section-A
+
+Objective: To learn the basics of JavaScript by setting up an HTML file, adding JavaScript code, and testing it in the browser console.
+
+Instructions:
+
+Open your code editor and create an HTML file.
+Within the HTML file, set up the HTML tags, doctype, head, and body.
+Add the script tags to the body of the HTML file.
+Within the script tags, place the following JavaScript code: console.log("hello world!").
+Link an external JavaScript file (script.js) to the HTML file using a script tag with the src attribute.
+Open the browser console and type 4 + 10. What do you see as the response?
+Use the console.log() syntax to log values to the console. Try entering your name within quotes.
+
+
+Requirements:
+
+1-Please Follow the Obove Instructions
+2- Upload your Code to Google Drive and Github.
+3-Please deploy into surge, and create online link
+4-Submit the assignment at link below
+
+
+
+Deadline: 06/02/2023
+
+Submit:  https://forms.gle/8u9NAq3nbp3cQ47G9
+
+Best Of Luck 🤞 
