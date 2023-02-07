@@ -19,7 +19,7 @@ Use the console.log() syntax to log values to the console. Try entering your nam
 Requirements:
 
 1-Please Follow the Obove Instructions
-2- Upload your Code to Google Drive and Github.
+2-Upload your Code to Google Drive and Github.
 3-Please deploy into surge, and create online link
 4-Submit the assignment at link below
 
