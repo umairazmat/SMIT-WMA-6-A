@@ -1,8 +1,0 @@
-Assignment#01 
-Dear Students / Brothers.
-Web and Mobile Application Development, Batch-06 Section-A
-Requirements:
-1- Please create the exactly same HTML structure like (assignment-01.png attach in same folder)
-2- Submit the assignment at link below
-Deadline: 27/11/2022
-Submit: https://forms.gle/QkQC9ZqdTS2262y46
