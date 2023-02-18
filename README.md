@@ -1,5 +1,5 @@
 <h1 align="center"> SMIT-WMA-6-A </h1>
-<h1 align="center">Saylani Mass IT Training Batch 06 Section A Year 2022-23 - MERN Stack Free Course</h1>
+<h3 align="center">Saylani Mass IT Training Batch 06 Section A Year 2022-23 - MERN Stack Free Course</h1>
 <br>
 <h2>About the Course</h2>
 
