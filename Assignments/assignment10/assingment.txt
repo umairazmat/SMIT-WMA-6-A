@@ -1,0 +1,141 @@
+Assignment#10 JS (04)
+
+Dear Students / Brothers.
+Web & Mobile Application Development Batch 06 Section-A
+
+
+
+Instructions:
+
+1-Read the JS Cheat Sheet at https://cheatography.com/davechild/cheat-sheets/javascript/
+
+2- What will be the result for these expressions?
+5 > 4
+"apple" > "pineapple"
+"2" > "12"
+undefined == null
+undefined === null
+null == "\n0\n"
+null === +"\n0\n"
+
+3-What are the final values of all variables a, b, c and d after the code below?
+let a = 1, b = 1;
+let c = ++a; // ?
+let d = b++; // ?
+
+4-What are the values of a and x after the code below?
+let a = 2;
+let x = 1 + (a *= 2);
+
+5-Here’s a code that asks the user for two numbers and shows their sum.
+It works incorrectly. The output in the example below is 12 (for default prompt values).
+Why? Fix it. The result should be 3.
+
+let a = prompt("First number?", 1);
+let b = prompt("Second number?", 2);
+
+alert(a + b); // 12
+
+6- Rewrite this if using the conditional operator '?':
+let result;
+
+if (a + b < 4) {
+  result = 'Below';
+} else {
+  result = 'Over';
+}
+
+7- Rewrite 'if..else' into '?'
+Rewrite if..else using multiple ternary operators '?'.
+For readability, it’s recommended to split the code into multiple lines.
+let message;
+
+if (login == 'Employee') {
+  message = 'Hello';
+} else if (login == 'Director') {
+  message = 'Greetings';
+} else if (login == '') {
+  message = 'No login';
+} else {
+  message = '';
+}
+
+8-What is the code below going to output?
+
+alert( null || 2 || undefined );
+
+9-What will the code below output?
+
+alert( alert(1) || 2 || alert(3) );
+
+10-What is this code going to show?
+
+alert( 1 && null && 2 );
+
+11-What will this code show?
+
+alert( alert(1) && alert(2) );
+
+12-What will the result be?
+
+alert( null || 2 && 3 || 4 );
+
+13-Write an if condition to check that age is NOT between 14 and 90 inclusively.
+
+Create two variants: the first one using NOT !, the second one – without it.
+
+14-Which of these alerts are going to execute?
+
+What will the results of the expressions be inside if(...)?
+
+if (-1 || 0) alert( 'first' );
+if (-1 && 0) alert( 'second' );
+if (null || -1 && 1) alert( 'third' );
+
+15-Write the code using if..else which would correspond to the following switch:
+
+switch (browser) {
+  case 'Edge':
+    alert( "You've got the Edge!" );
+    break;
+
+  case 'Chrome':
+  case 'Firefox':
+  case 'Safari':
+  case 'Opera':
+    alert( 'Okay we support these browsers too' );
+    break;
+
+  default:
+    alert( 'We hope that this page looks ok!' );
+}
+
+16-Rewrite the code below using a single switch statement:
+
+let a = +prompt('a?', '');
+
+if (a == 0) {
+  alert( 0 );
+}
+if (a == 1) {
+  alert( 1 );
+}
+
+if (a == 2 || a == 3) {
+  alert( '2,3' );
+}
+
+Requirements:
+
+1-Please Follow the Obove Instructions
+2-Upload your Code to Google Drive and Github.
+3-Please deploy into surge, vercel and create online link
+4-Submit the assignment at link below
+
+
+
+Deadline: 28/02/2023
+
+Submit: https://forms.gle/qmbVNgWn6RwZ8Jge6
+
+Best Of Luck 🤞 
