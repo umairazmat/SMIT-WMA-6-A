@@ -1,0 +1,21 @@
+Assignment#11
+
+Dear Students / Brothers.
+Web & Mobile Application Development Batch 06 Section-A
+
+
+Requirements:
+
+1-Please Follow the Instructions
+2-Create the exactly same blog from Figma file (Fully Responsive For Mobile, Tablet & Desktop)
+3-Use the assets from https://drive.google.com/drive/folders/1KG8oJf2qAFOrRQrTNbLidPdkL3PDoLfD?usp=sharing
+4-Upload your Code to Google Drive and GitHub.
+5-Please deploy into surge, vercel and create online link
+6-Submit the assignment at link below
+
+Deadline: 06/02/2023
+
+Submit:  https://forms.gle/8P2eVdYi5HUuCXmS8
+
+Best Of Luck 🤞 
+
