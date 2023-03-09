@@ -33,31 +33,6 @@ Write a js program to calculate the absolute value of a number.
 Write a js program to calculate the power of a number.
 
 
-Strings:
-
-Write a js program to find the length of a string.
-Write a js program to concatenate two strings.
-Write a js program to convert a string to uppercase.
-Write a js program to convert a string to lowercase.
-Write a js program to check if a string contains a specific substring.
-Write a js program to find the index of a specific character in a string.
-Write a js program to replace a specific substring in a string.
-Write a js program to remove leading and trailing whitespace from a string.
-Write a js program to split a string into an array of substrings.
-Write a js program to reverse a string.
-
-Numbers:
-
-Write a js program to find the sum of two numbers.
-Write a js program to find the difference between two numbers.
-Write a js program to find the product of two numbers.
-Write a js program to find the quotient and remainder of two numbers.
-Write a js program to round a number to the nearest integer.
-Write a js program to generate a random number between 0 and 1.
-Write a js program to find the maximum and minimum of two numbers.
-Write a js program to calculate the square root of a number.
-Write a js program to calculate the absolute value of a number.
-Write a js program to calculate the power of a number.
 
 Date Methods:
 
