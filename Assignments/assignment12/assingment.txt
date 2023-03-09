@@ -1,0 +1,137 @@
+Assignment#12 JS (05)
+
+Dear Students / Brothers.
+Web & Mobile Application Development Batch 06 Section-A
+
+
+Instructions:
+
+Strings:
+
+Write a js program to find the length of a string.
+Write a js program to concatenate two strings.
+Write a js program to convert a string to uppercase.
+Write a js program to convert a string to lowercase.
+Write a js program to check if a string contains a specific substring.
+Write a js program to find the index of a specific character in a string.
+Write a js program to replace a specific substring in a string.
+Write a js program to remove leading and trailing whitespace from a string.
+Write a js program to split a string into an array of substrings.
+Write a js program to reverse a string.
+
+Numbers:
+
+Write a js program to find the sum of two numbers.
+Write a js program to find the difference between two numbers.
+Write a js program to find the product of two numbers.
+Write a js program to find the quotient and remainder of two numbers.
+Write a js program to round a number to the nearest integer.
+Write a js program to generate a random number between 0 and 1.
+Write a js program to find the maximum and minimum of two numbers.
+Write a js program to calculate the square root of a number.
+Write a js program to calculate the absolute value of a number.
+Write a js program to calculate the power of a number.
+
+
+Strings:
+
+Write a js program to find the length of a string.
+Write a js program to concatenate two strings.
+Write a js program to convert a string to uppercase.
+Write a js program to convert a string to lowercase.
+Write a js program to check if a string contains a specific substring.
+Write a js program to find the index of a specific character in a string.
+Write a js program to replace a specific substring in a string.
+Write a js program to remove leading and trailing whitespace from a string.
+Write a js program to split a string into an array of substrings.
+Write a js program to reverse a string.
+
+Numbers:
+
+Write a js program to find the sum of two numbers.
+Write a js program to find the difference between two numbers.
+Write a js program to find the product of two numbers.
+Write a js program to find the quotient and remainder of two numbers.
+Write a js program to round a number to the nearest integer.
+Write a js program to generate a random number between 0 and 1.
+Write a js program to find the maximum and minimum of two numbers.
+Write a js program to calculate the square root of a number.
+Write a js program to calculate the absolute value of a number.
+Write a js program to calculate the power of a number.
+
+Date Methods:
+
+Write a js program to get the current date and time.
+Write a js program to get the current year.
+Write a js program to get the current month.
+Write a js program to get the current day of the week.
+Write a js program to add a specific number of days to a date.
+Write a js program to subtract a specific number of days from a date.
+Write a js program to get the time in milliseconds.
+Write a js program to get the hours, minutes, and seconds from a date object.
+Write a js program to create a new date object with a specific year, month, and day.
+Write a js program to compare two dates.
+
+
+Math Methods:
+
+Write a js program to find the absolute value of a number.
+Write a js program to find the highest value in a list of numbers.
+Write a js program to find the lowest value in a list of numbers.
+Write a js program to round a number up to the nearest integer.
+Write a js program to round a number down to the nearest integer.
+Write a js program to calculate the exponential value of a number.
+Write a js program to calculate the natural logarithm of a number.
+Write a js program to calculate the sine of an angle in radians.
+Write a js program to calculate the cosine of an angle in radians.
+Write a js program to calculate the square root of a number.
+
+
+For loop:
+
+Write a program that uses a for loop to print the numbers from 1 to 10.
+Write a program that uses a for loop to print the elements of an array.
+Write a program that uses a for loop to calculate the factorial of a number.
+Write a program that uses a for loop to generate a multiplication table for a given number.
+Write a program that uses a for loop to find the sum of all even numbers from 1 to 100.
+
+While Loop:
+
+Write a program that asks the user to enter a number and then prints out all the odd numbers up to that number.
+Write a program that asks the user to enter a number and then prints out the multiplication table for that number, up to 10.
+Write a program that generates a random number between 1 and 100 and asks the user to guess it. The program should keep asking the user for guesses until they get the number.
+Write a program that asks the user to enter a word and then prints out the word in reverse order.
+Write a program that asks the user to enter a series of numbers and then finds the sum and average of those numbers.
+
+Do-while Loop:
+
+Write a program that asks the user to enter a password. Keep asking the user to enter a password until they enter the correct password.
+Write a program that asks the user to enter a number and then prints out all the numbers from that number down to 1.
+Write a program that generates a random number between 1 and 100 and asks the user to guess it. The program should keep asking the user for guesses until they get the number. At the end of the loop, the program should ask the user if they want to play again.
+Write a program that asks the user to enter a series of numbers and then finds the largest number. The program should keep asking the user for numbers until they enter a negative number.
+Write a program that asks the user to enter a series of words and then prints out the words in reverse order. The program should keep asking the user for words until they enter the word "stop".
+
+Switch case:
+
+1. Write a js program to print day of week name using switch case.
+2. Write a js program print total number of days in a month using switch case.
+3. Write a js program to check whether an alphabet is vowel or consonant using switch case.
+4. Write a js program to find maximum between two numbers using switch case.
+5. Write a js program to check whether a number is even or odd using switch case.
+6. Write a js program to check whether a number is positive, negative or zero using switch case.
+
+
+Requirements:
+
+1-Please Follow the Obove Instructions
+2-Upload your Code to Google Drive and Github.
+3-Please deploy into surge, vercel and create online link
+4-Submit the assignment at link below
+
+
+
+Deadline: 14/03/2023
+
+Submit: https://forms.gle/y6hBzwtvkQwWrssK9
+
+Best Of Luck 🤞 
